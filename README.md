@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isurumuni WIjesooriya</h1>
 <h3 align="center">A passionate Computer Science Student|Backend Developer|DevOps Engineer from Sri Lanka</h3>
-![Alt Text]("C:\Users\MUNIYA\Downloads\225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif")
+![Alt Text](C:\Users\MUNIYA\Downloads\225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muniya-64bit&label=Profile%20views&color=0e75b6&style=flat" alt="muniya-64bit" /> </p>
 
